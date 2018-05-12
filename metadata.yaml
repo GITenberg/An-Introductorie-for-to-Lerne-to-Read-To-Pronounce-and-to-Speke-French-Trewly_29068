@@ -1,0 +1,29 @@
+_repo: An-Introductorie-for-to-Lerne-to-Read-To-Pronounce-and-to-Speke-French-Trewly_29068
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Du Wés, Giles
+    aliases:
+    - Wés, Giles du
+    - Du Wes, Giles
+    deathdate: 1535
+    gutenberg_agent_id: '33683'
+    url: http://www.gutenberg.org/2009/agents/33683
+description: ''
+gutenberg_issued: '2009-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'French language -- Textbooks for foreign speakers -- English'
+- !lcsh 'French language -- Grammar -- Early works to 1800'
+title: An Introductorie for to Lerne to Read, To Pronounce, and to Speke French Trewly
+url: http://www.gutenberg.org/ebooks/29068
